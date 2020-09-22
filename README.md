@@ -1,2 +1,2 @@
-# class-20-bouceoff-algorithm
-bounceOff algorithm on visual studio code
+# collisionAlgorithm
+Algorithm to detect collision between two objects
